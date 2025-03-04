@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sumber-berita.github.io/topan-work/sitemap.xml
